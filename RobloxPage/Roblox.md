@@ -1,5 +1,7 @@
 ---
-permalink: /Roblox.html
+layout: page
+title: "Roblox Page"
+permalink: /Roblox/
 ---
 # Unfinished Page!
 
