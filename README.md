@@ -1,6 +1,4 @@
----
-favicon: /favicon.ico
----
+
 ## UntitledOutput Developer Page
 
 Welcome to UntitledOutput's Developer Page.
