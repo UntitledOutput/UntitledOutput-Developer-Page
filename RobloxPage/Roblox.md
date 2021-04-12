@@ -1,6 +1,5 @@
 ---
 permalink: /Roblox.html
-favicon: /favicon.ico
 ---
 # Unfinished Page!
 
